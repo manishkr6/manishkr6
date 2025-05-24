@@ -27,6 +27,8 @@ I enjoy building responsive user interfaces, learning new technologies, and capt
 🔹 **Country Info App** *(React.js)*  
 ---
 
+---
+
 ### 📸 Photography
 
 Outside of coding, I find joy in photography.  
