@@ -15,52 +15,19 @@ I enjoy building responsive user interfaces, learning new technologies, and capt
 
 ### 🚀 Projects I've Worked On
 
-🔹 **IT Concurrent Management System** *(MERN Stack – Internship Group Project)*  
-• Workflow-based IT asset request and verification system  
-• Users submit asset requests  
-• Requests flow through Operator → Verifier → Approver → Super Admin  
-• Each role can Approve, Reject, or Return requests with remarks  
-• Super Admin oversees the entire system  
-• Role-based dashboards with secure login  
-**Tech Used:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
+🔹 **IT Concurrent Management System** *(MERN Stack – Internship Group Project)* 
 ---
 
 🔹 **College Admission Portal** *(MERN Stack – Internship Group Project)*  
-• A full-stack system for student admission applications  
-• Student registration and login  
-• Application form submission  
-• Admin dashboard for reviewing, approving, and rejecting with remarks  
-**Tech Used:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
 ---
 
 🔹 **Hotel Booking System with Admin Panel** *(React.js)*  
-• Hotel room booking platform with user and admin interfaces  
-• Users can search, book, and manage reservations  
-• Admin panel for room management and booking overview  
-• Secure, role-based access  
-**Tech Used:** React.js, React Router, Tailwind CSS
-
 ---
 
 🔹 **Country Info App** *(React.js)*  
-• Displays details of various countries using REST APIs  
-• Shows population, flag, capital, region, and interesting facts  
-• Searchable UI with dynamic rendering  
-**Tech Used:** React.js, CSS, REST API
-
 ---
 
-🔹 **Music Player**  
-• Simple browser-based music player with controls  
-**Tech Used:** HTML, CSS, JavaScript
-
----
-
-🔹 **Amazon UI Clone**  
-• Frontend clone of Amazon homepage with responsive layout  
-**Tech Used:** HTML, CSS, JavaScript
+🔹 **Music Player** 
 
 ---
 
