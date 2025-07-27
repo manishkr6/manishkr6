@@ -11,9 +11,11 @@ and functional web designs.
 
 ### 💻 Tech Stack
 
-- 🛠 **Languages:** HTML, CSS, JavaScript, Java, C, C++
-- ⚛️ **Frontend Frameworks/Libraries:** React.js, Tailwind CSS
-- 🧰 **Tools & Platforms:** Git, GitHub, VS Code, Netlify
+- **Languages & Tools:** HTML5, CSS3, JavaScript (ES6+), Python, Git, GitHub, VS Code
+- **Frontend:** React.js, Tailwind CSS, React Router, React Hook Form
+- **Data Analytics & ML (Learning):** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Database:** MongoDB, SQL
+- **Others:** REST API, Postman, Netlify, Responsive Design.
 
 ---
 
@@ -42,8 +44,8 @@ I love exploring new places, capturing nature, and freezing special moments thro
 
 ### 🌱 Currently Learning
 
-• Data Analytics & Visualization
-• Machine Learning & Real-World Data Applications  
+- Data Analytics & Visualization
+- Machine Learning & Real-World Data Applications  
 
 ---
 
