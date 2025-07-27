@@ -1,7 +1,11 @@
 ### 👋 Hi, I’m @manishkr6 (Manish Kumar Baitha)
 
-I'm a passionate **Frontend Web Developer** who loves turning ideas into beautiful, interactive websites.  
-I enjoy building responsive user interfaces, learning new technologies, and capturing life through photography.  
+Self-taught and passionate Front-End Web Developer who enjoys building interactive and user-friendly
+websites. I love turning ideas into real web experiences and always look forward to learning new
+technologies to grow my skills.
+I’m also learning Data Analytics, Machine Learning, and Data Science to explore how data can be used to
+solve real-world problems. I enjoy working alone or in a team and focus on creating clean, responsive,
+and functional web designs.  
 
 ---
 
@@ -38,9 +42,8 @@ I love exploring new places, capturing nature, and freezing special moments thro
 
 ### 🌱 Currently Learning
 
-- Advanced React patterns & optimization  
-- UI/UX design principles  
-- Framer Motion & modern animations  
+• Data Analytics & Visualization
+• Machine Learning & Real-World Data Applications  
 
 ---
 
