@@ -3,6 +3,7 @@
 Self-taught and passionate Front-End Web Developer who enjoys building interactive and user-friendly
 websites. I love turning ideas into real web experiences and always look forward to learning new
 technologies to grow my skills.
+
 I’m also learning Data Analytics, Machine Learning, and Data Science to explore how data can be used to
 solve real-world problems. I enjoy working alone or in a team and focus on creating clean, responsive,
 and functional web designs.  
