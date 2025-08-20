@@ -14,7 +14,7 @@ and functional web designs.
 
 - **Languages & Tools:** HTML5, CSS3, JavaScript (ES6+), Python, Git, GitHub, VS Code
 - **Frontend:** React.js, Tailwind CSS, React Router, React Hook Form
-- **Data Analytics & ML (Learning):** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Data Analytics & ML:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Database:** MongoDB, SQL
 - **Others:** REST API, Postman, Netlify, Responsive Design.
 
