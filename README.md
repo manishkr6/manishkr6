@@ -25,7 +25,7 @@ and functional web designs.
 🔹 **IT Concurrent Management System** *(MERN Stack – Internship Group Project)* 
 ---
 
-🔹 **College Admission Portal** *(MERN Stack – Internship Group Project)*  
+🔹 **Heart Health Predictor** *(ML)*  
 ---
 
 🔹 **Hotel Booking System with Admin Panel** *(React.js)*  
@@ -54,7 +54,7 @@ I love exploring new places, capturing nature, and freezing special moments thro
 
 - 📧 **Email:** manishkr9547@gmail.com  
 - 📱 **Phone:** 8927436941  
-- 🖼️ **Portfolio (coming soon!)**  
+- 🖼️ **Portfolio:** https://share.google/uzeO6jy47QRwIrgC5  
 - 📷 **Fun Fact:** My camera roll is a mix of beautiful sunsets and React errors 😉
 
 ---
