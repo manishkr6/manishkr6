@@ -31,9 +31,6 @@ and functional web designs.
 🔹 **Hotel Booking System with Admin Panel** *(React.js)*  
 ---
 
-🔹 **Country Info App** *(React.js)*  
----
-
 ---
 
 ### 📸 Photography
@@ -54,7 +51,7 @@ I love exploring new places, capturing nature, and freezing special moments thro
 
 - 📧 **Email:** manishkr9547@gmail.com  
 - 📱 **Phone:** 8927436941  
-- 🖼️ **Portfolio:** https://share.google/uzeO6jy47QRwIrgC5  
+- 🖼️ **Portfolio:** https://portfolio-manish-psi.vercel.app/  
 - 📷 **Fun Fact:** My camera roll is a mix of beautiful sunsets and React errors 😉
 
 ---
