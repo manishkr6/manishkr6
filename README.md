@@ -1,58 +1,66 @@
 ### 👋 Hi, I’m @manishkr6 (Manish Kumar Baitha)
 
-Self-taught and passionate Front-End Web Developer who enjoys building interactive and user-friendly
-websites. I love turning ideas into real web experiences and always look forward to learning new
-technologies to grow my skills.
+I’m a **Web Developer and AI/ML/DL/GenAI Developer** passionate about building intelligent, real-world applications that combine modern web technologies with data-driven solutions.
 
-I’m also learning Data Analytics, Machine Learning, and Data Science to explore how data can be used to
-solve real-world problems. I enjoy working alone or in a team and focus on creating clean, responsive,
-and functional web designs.  
+I enjoy transforming ideas into scalable systems — from interactive web platforms to machine learning models that solve meaningful problems. My focus is on leveraging **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI** to build impactful and future-ready solutions.
 
 ---
 
-### 💻 Tech Stack
+### 🧠 Tech Stack
 
-- **Languages & Tools:** HTML5, CSS3, JavaScript (ES6+), Python, Git, GitHub, VS Code
-- **Frontend:** React.js, Tailwind CSS, React Router, React Hook Form
-- **Data Analytics & ML:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Database:** MongoDB, SQL
-- **Others:** REST API, Postman, Netlify, Responsive Design.
-
----
-
-### 🚀 Projects I've Worked On
-
-🔹 **IT Concurrent Management System** *(MERN Stack – Internship Group Project)* 
----
-
-🔹 **Heart Health Predictor** *(ML)*  
----
-
-🔹 **Hotel Booking System with Admin Panel** *(React.js)*  
----
+- **Programming Languages:** Python, JavaScript (ES6+)
+- **Web Development:** React.js, HTML5, CSS3, Tailwind CSS
+- **AI / ML / DL / GenAI:**  
+  Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning Algorithms, Deep Learning Basics, Generative AI Concepts  
+- **Backend & Database:** Node.js, Express.js, MongoDB, SQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify  
+- **Other Skills:** REST APIs, Responsive Design, Data Handling & Visualization  
 
 ---
 
-### 📸 Photography
+### 🚀 Featured Projects
 
-Outside of coding, I find joy in photography.  
-I love exploring new places, capturing nature, and freezing special moments through my camera lens.
+🔹 **IT Asset Request Management System** *(MERN Stack – Government of Sikkim Internship)*  
+A multi-role system for managing IT asset requests with approval workflows.
+
+🔹 **Heart Health Predictor** *(Machine Learning)*  
+Built a predictive model using healthcare data to assess heart disease risk.
+
+🔹 **Movie Recommendation System** *(AI/ML)*  
+A recommendation engine that suggests movies based on user preferences using similarity algorithms.
+
+🔹 **Hotel Booking System with Admin Panel** *(React.js + MERN)*  
+A full-stack application with booking management and admin control features.
 
 ---
 
-### 🌱 Currently Learning
+### 📊 Current Focus
 
-- Data Analytics & Visualization
-- Machine Learning & Real-World Data Applications  
+- Machine Learning & Deep Learning  
+- Generative AI (LLMs, AI Applications)  
+- Real-world AI Projects & Deployment  
+- Data Analytics & Visualization  
+
+---
+
+### 📸 Beyond Coding
+
+I enjoy photography — capturing nature, landscapes, and meaningful moments.  
+Exploring new places inspires both my creativity and problem-solving mindset.
 
 ---
 
 ### 🤝 Let’s Connect
 
-- 📧 **Email:** manishkr9547@gmail.com  
-- 📱 **Phone:** 8927436941  
-- 🖼️ **Portfolio:** https://portfolio-manish-psi.vercel.app/  
-- 📷 **Fun Fact:** My camera roll is a mix of beautiful sunsets and React errors 😉
+- 📧 Email: manishkr9547@gmail.com  
+- 📱 Phone: 8927436941  
+- 🌐 Portfolio: https://portfolio-manish-psi.vercel.app/  
+
+---
+
+### 😄 Fun Fact
+
+My camera roll is a mix of **beautiful sunsets 🌄 and debugging screenshots 🤖**
 
 ---
 
@@ -62,9 +70,4 @@ He/Him
 
 ---
 
-Feel free to reach out for collaboration, feedback, or just to say hi!
-
-<!---
-manishkr6/manishkr6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ Feel free to connect for collaboration, projects, or tech discussions!
